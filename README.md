@@ -13,9 +13,12 @@
 ## Tutorial
 
 ## Main Repo
+https://github.com/LPengYang/FreeDrag
 
 ## Page
+https://lin-chen.site/projects/freedrag/
 
 ## Paper
+https://arxiv.org/abs/2307.04684
 
 ## Output
